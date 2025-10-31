@@ -1,0 +1,6 @@
+@WebApi_ManyToManyRel_HostAddress = http://localhost:5034
+
+GET {{WebApi_ManyToManyRel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
